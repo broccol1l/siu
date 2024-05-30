@@ -1,5 +1,9 @@
 # names = [1, 2, 3, 4, ['Hello', 3, 7]]
+<<<<<<< HEAD
 # # print(type(names)) # Тип данных = list
+=======
+# print(type(names)) # Тип данных = list
+>>>>>>> 0400a9ec1fe8ea5baf3814b3dc2772b0ba601075
 # print(len(names))
 # print(names[2])
 
@@ -101,6 +105,7 @@
 #     print(a)
 
 
+<<<<<<< HEAD
 # names = [ 1, 2, 3, 4,['Hello', 3,'5' ]]
 # print(names[1 : 5: 2])
 spisok = ['privet', 'poka', 1, "1", 2, '123', [1, 4, 5]]
@@ -108,3 +113,10 @@ spisok[-1].insert(0, 'siu')
 spisok.pop(0)
 print(spisok)
 print(len(spisok[-1]))
+=======
+
+
+
+
+
+>>>>>>> 0400a9ec1fe8ea5baf3814b3dc2772b0ba601075
